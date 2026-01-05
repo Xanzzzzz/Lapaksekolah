@@ -32,6 +32,9 @@ body {
 h1,h2,h3,h4,h5,h6{
   font-weight: 900;
 }
+.email-link span {
+  font-family: 'Inter', sans-serif;
+}
 
 .layout_padding {
   padding: 90px 0;
